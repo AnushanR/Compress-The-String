@@ -1,11 +1,13 @@
 You are given a string . Suppose a character '' occurs consecutively  times in the string. Replace these consecutive occurrences of the character '' with  in the string.
 
 
-Input Format
+**Input Format
+**
 
 A single line of input consisting of the string .
 
-Output Format
+**Output Format
+**
 
 A single line of output consisting of the modified string.
 
@@ -16,11 +18,12 @@ All the characters of  denote integers between  and .
 
 Sample Input
 
-1222311
+**1222311**
 
 Sample Output
 
-(1, 1) (3, 2) (1, 3) (2, 1)
+**(1, 1) (3, 2) (1, 3) (2, 1)
+**
 
 Explanation
 
